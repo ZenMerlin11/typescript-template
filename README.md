@@ -1,4 +1,4 @@
-# typescript-template
+# typescript-template-browserify
 Template for front end projects using Typescript, Gulp, and Browserify.
 
 ## Getting Started ##
