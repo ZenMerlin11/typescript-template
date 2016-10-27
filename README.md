@@ -17,3 +17,7 @@ To try out the app run a dev server by
     npm run dev
 
 and go to `http://localhost:8080`
+
+References:
+
+    https://www.typescriptlang.org/docs/handbook/gulp.html
